@@ -1,0 +1,1 @@
+Depending on context, unimodal function may also refer to a function that has only one local minimum, rather than maximum. For example, local unimodal sampling, a method for doing numerical optimization, is often demonstrated with such a function. It can be said that a unimodal function under this extension is a function with a single local extremum.
